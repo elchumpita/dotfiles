@@ -1,0 +1,9 @@
+# Generados automáticamente / específicos de cada máquina
+__pycache__/
+*.pyc
+config/nvim/plugin/packer_compiled.lua
+config/ranger/bookmarks
+config/ranger/history
+config/ranger/tagged
+*.local
+.DS_Store
